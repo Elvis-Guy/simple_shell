@@ -288,8 +288,9 @@ $
 
 ## Authors :black_nib:
 
-* Joseph Mahiuha <[Joseph Mahiuha](https://github.com/Mahiuha)>
-* Lewis Mwaura <[Lewis Mwaura](https://github.com/lew-monk)>
+* Elvis Guy Bakunzi <[guyelvisbakunzi@gmail.com](https://github.com/Elvis-Guy)>
+* Maxime Guy Bakunzi <[guymaximebakunzi@gmail.com](https://github.com/Maxime-Guy)>
+
 
 ## License :lock:
 
